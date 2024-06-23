@@ -22,3 +22,5 @@ Este bot tiene que tener un token de myfader los otros otkes se los regalo yo de
 > pip install "python-telegram-bot[job-queue]"
 <br></br>
 Sin estos requerimientos no funciona las peticiones http de la api no se enviaran
+## Emula el proyecto con la nube : 
+
