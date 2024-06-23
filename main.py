@@ -13,9 +13,9 @@ from telegram.ext import Application, CallbackContext, CallbackQueryHandler, Com
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Token de tu bot
-TOKEN = '7121217645:AAHc6ixQa_qglg9NEj3bOk02CTAs8DkF53E'
+TOKEN = 'ESCRIBE TU TOKEN DE BOT'
 # ID de chat
-CHAT_ID = 1001949353956  # Asegúrate de que este ID es correcto y el bot tiene acceso a este chat
+CHAT_ID = (ID DE CHAT)  # Asegúrate de que este ID es correcto y el bot tiene acceso a este chat
 
 # Función que maneja el botón
 async def button(update: Update, context: CallbackContext) -> None:
