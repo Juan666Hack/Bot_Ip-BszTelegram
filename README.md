@@ -7,7 +7,7 @@ Este bot tiene que tener un token de myfader los otros otkes se los regalo yo de
 <br></br>
 > /start : si pones este comando veras el ID del chat o usuario 
 ## comandos bash requeridos :
-> pip install python-telegram-bot
+> pip install --upgrade python-telegram-bot
 <br></br>
 > pip install python-telegram-bot --upgrade
 <br></br>
