@@ -13,7 +13,7 @@ from telegram.ext import Application, CallbackContext, CallbackQueryHandler, Com
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Token de tu bot
-TOKEN = 'ESCRIBE TU TOKEN DE BOT'
+TOKEN = '7379210064:AAHEwL5uoMAhiHks0lYDTH-OH5DV-Rhuh04'
 # ID de chat
 CHAT_ID = (ID DE CHAT)  # Asegúrate de que este ID es correcto y el bot tiene acceso a este chat
 
